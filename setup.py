@@ -13,6 +13,7 @@ setup(
         ''',
     name='Cairoplot',
     packages=['cairoplot'],
+    requires=['pycairo'],
     url='http://linil.wordpress.com/2008/09/16/cairoplot-11/',
     version='1.1a',
     )
